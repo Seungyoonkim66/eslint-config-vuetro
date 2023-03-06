@@ -241,7 +241,7 @@ module.exports = {
      * Object Key에 quote 사용 여부
      * @now quote 필요한 경우에만 사용
      */
-    'quote-props': ['error', 'consistent'],
+    'quote-props': ['error', 'as-needed'],
     /**
      * rest, spread 연산자에 간격 띄움 여부
      * @now 간격 안 띄움
